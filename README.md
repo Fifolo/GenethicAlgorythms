@@ -5,4 +5,4 @@ Becouse of that, they are both hard to read and ugly but they worked and I passe
 ## SGA
 Simple Genethic Algorytm finds the maximum value of quadratic function
 ## GA_TSP
-This one solves the popular Traveling Salesman Problem
+This one solves the popular Traveling Salesman Problem based on the (x,y) coordinates in 2 files 
